@@ -1,0 +1,4 @@
+outs:
+- md5: 20f1fb47941e57947c089997d204e0e0
+  size: 3
+  path: pk_data.txt
